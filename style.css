@@ -16,7 +16,7 @@ html, body {
 
 #character-bar {
   height: 15vh;
-  background: rgb(49, 109, 179);
+  background:  rgb(49, 109, 179);
   display: flex;
   justify-content: space-around;
   align-items: center;
